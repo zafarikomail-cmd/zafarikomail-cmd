@@ -82,6 +82,6 @@
 
 ⭐ If you find my projects useful, consider giving them a star — it means a lot!
 
-![Visitor Count](https://visitor-badge.litevar.com/badge?page_id=zafarikomail-cmd.zafarikomail-cmd)
+![Visitor Count](https://komarev.com/ghpvc/?username=zafarikomail-cmd&color=0e75b6&style=flat&label=Profile+Views)
 
 </div>
