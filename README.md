@@ -46,7 +46,7 @@
 | 🔗 Project | 📝 Description | ⚙️ Tech | 🌐 Live |
 |-----------|----------------|---------|---------|
 | [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [▶ Live](https://ai-detector-wine.vercel.app) |
-| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow-phi.vercel.app) |
+| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow.pages.dev/) |
 | [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https://vocalacademy.pages.dev) |
 | [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.pages.dev) |
 | [🎨 Culture Day](https://github.com/zafarikomail-cmd/Culture-Day) | Interactive cultural celebration web app | HTML, CSS | [▶ Live](https://culture-day-inky.vercel.app) |
