@@ -5,6 +5,7 @@
 **BS Information Technology Student** · Building real-world web apps from Afghanistan 🇦🇫
 
 [![Email](https://img.shields.io/badge/Email-zafarikomail%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zafarikomail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Komail%20Zafari-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-komail-zafari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zafarikomail--cmd.github.io-000000?style=flat&logo=github&logoColor=white)](https://zafarikomail-cmd.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-zafarikomail--cmd-181717?style=flat&logo=github&logoColor=white)](https://github.com/zafarikomail-cmd)
 [![University](https://img.shields.io/badge/University-NUTECH-0055A4?style=flat&logo=academia&logoColor=white)](https://nutech.edu.pk)
@@ -44,10 +45,10 @@
 
 | 🔗 Project | 📝 Description | ⚙️ Tech | 🌐 Live |
 |-----------|----------------|---------|---------|
-| [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [▶ Live](https://zafarikomail-cmd.github.io/First-Semester-ICAT-Project-Assignment_AI_Detector) |
-| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow.pages.dev) |
-| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https://vocalacademy.pages.dev/) |
-| [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.pages.dev/) |
+| [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [[...]
+| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow.pa[...]
+| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https:[...]
+| [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.p[...]
 | [🎨 Culture Day](https://github.com/zafarikomail-cmd/Culture-Day) | Interactive cultural celebration web app | HTML, CSS | [▶ Live](https://culture-day-inky.vercel.app) |
 | [🔮 Vision Forge](https://github.com/zafarikomail-cmd/Vision-Forge) | Creative web development project | HTML, CSS | [🔗 Repo](https://github.com/zafarikomail-cmd/Vision-Forge) |
 
@@ -102,7 +103,7 @@
 
 **💬 Open to internships, collaborations and open source contributions!**
 
-🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)**
+🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)** · 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-komail-zafari)**
 
 ⭐ If you find my projects useful, consider giving them a star — it means a lot!
 
