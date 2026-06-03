@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&columns=6)](https://github.com/zafarikomail-cmd)
+<img src="https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&columns=6" alt="GitHub Trophy" />
 
 </div>
 
