@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&columns=6" />
 </div>
 
 ---
