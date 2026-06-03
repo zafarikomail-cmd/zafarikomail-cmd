@@ -45,10 +45,10 @@
 
 | 🔗 Project | 📝 Description | ⚙️ Tech | 🌐 Live |
 |-----------|----------------|---------|---------|
-| [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [[...]
-| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow.pa[...]
-| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https:[...]
-| [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.p[...]
+| [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [▶ Live](https://ai-detector-wine.vercel.app) |
+| [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow-phi.vercel.app) |
+| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https://vocal-academy-iota.vercel.app) |
+| [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.pages.dev) |
 | [🎨 Culture Day](https://github.com/zafarikomail-cmd/Culture-Day) | Interactive cultural celebration web app | HTML, CSS | [▶ Live](https://culture-day-inky.vercel.app) |
 | [🔮 Vision Forge](https://github.com/zafarikomail-cmd/Vision-Forge) | Creative web development project | HTML, CSS | [🔗 Repo](https://github.com/zafarikomail-cmd/Vision-Forge) |
 
@@ -105,7 +105,7 @@
 
 **💬 Open to internships, collaborations and open source contributions!**
 
-🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)** · 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-[...]
+🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)** · 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-komail-zafari)**
 
 ⭐ If you find my projects useful, consider giving them a star — it means a lot!
 
