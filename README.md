@@ -47,10 +47,11 @@
 |-----------|----------------|---------|---------|
 | [🤖 AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) | Detects AI-generated academic assignments using linguistic analysis | JS, Node.js | [▶ Live](https://ai-detector-wine.vercel.app) |
 | [📊 Grade-Flow](https://github.com/zafarikomail-cmd/Grade-FLow) | Mobile-friendly semester tracker — GPA, attendance & grades, no login needed | JavaScript | [▶ Live](https://grade-flow-phi.vercel.app) |
-| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https://vocal-academy-iota.vercel.app) |
+| [🎤 Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) | PWA helping Afghan women learn English from zero to TOEFL with offline support | HTML, CSS, Supabase | [▶ Live](https://vocalacademy.pages.dev) |
 | [🧠 NUTECH Vault](https://github.com/zafarikomail-cmd/nutech-vault) | Secure information & notes platform for NUTECH students with encryption | JS, Supabase | [▶ Live](https://nutech-vault.pages.dev) |
 | [🎨 Culture Day](https://github.com/zafarikomail-cmd/Culture-Day) | Interactive cultural celebration web app | HTML, CSS | [▶ Live](https://culture-day-inky.vercel.app) |
-| [🔮 Vision Forge](https://github.com/zafarikomail-cmd/Vision-Forge) | Creative web development project | HTML, CSS | [🔗 Repo](https://github.com/zafarikomail-cmd/Vision-Forge) |
+| [🍲 Food-Bridge](https://github.com/zafarikomail-cmd/Food-Bridge) | Connecting food donors with communities in need — reducing waste, feeding people | JavaScript | [▶ Live](https://food-bridge-25e.pages.dev) |
+| [🔮 Vision Forge](https://github.com/zafarikomail-cmd/Vision-Forge) | Creative web development project — digital innovation showcase | HTML, CSS | [▶ Live](https://visionforgeafg.org) |
 
 ---
 
@@ -95,9 +96,10 @@
 - [Vocal Academy](https://github.com/zafarikomail-cmd/Vocal-Academy) - English learning platform for Afghan women
 - [AI Detector](https://github.com/zafarikomail-cmd/First-Semester-ICAT-Project-Assignment_AI_Detector) - Academic integrity tool
 
-**Creative Projects:**
+**Creative & Social Impact:**
 - [Culture Day](https://github.com/zafarikomail-cmd/Culture-Day) - Cultural celebration web app
 - [Vision Forge](https://github.com/zafarikomail-cmd/Vision-Forge) - Creative development showcase
+- [Food-Bridge](https://github.com/zafarikomail-cmd/Food-Bridge) - Community food sharing platform
 
 ---
 
