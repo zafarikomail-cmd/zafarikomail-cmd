@@ -69,7 +69,9 @@
 ### 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&columns=6" />
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zafarikomail-cmd&theme=tokyonight&no-frame=true&row=1&columns=6)](https://github.com/zafarikomail-cmd)
+
 </div>
 
 ---
@@ -103,7 +105,7 @@
 
 **💬 Open to internships, collaborations and open source contributions!**
 
-🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)** · 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-komail-zafari)**
+🌐 **[Visit My Personal Portfolio](https://zafarikomail-cmd.github.io)** · 📧 **[Email Me](mailto:zafarikomail@gmail.com)** · 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-[...]
 
 ⭐ If you find my projects useful, consider giving them a star — it means a lot!
 
