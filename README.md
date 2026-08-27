@@ -65,12 +65,13 @@ I build real, deployed web applications rather than tutorial projects — every 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zafarikomail-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafarikomail-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zafarikomail-cmd&label=Public%20Repos&query=%24.public_repos&color=3ECF8E&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/zafarikomail-cmd?label=Followers&style=for-the-badge&color=0077B5)
+![Top Language](https://img.shields.io/github/languages/top/zafarikomail-cmd/timetrack?label=Primary%20Language&style=for-the-badge&color=F7DF1E&logoColor=black)
 
 </div>
 
-> Stats cards are served by a shared free instance (`github-readme-stats.vercel.app`) and may occasionally fail to load under heavy traffic — if a card ever shows broken on your profile, it's a temporary upstream issue, not something wrong with this file. Reload later, or see [self-hosting your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for a permanently reliable version.
+Your full contribution activity is already visible natively on this profile page below — GitHub renders that graph directly from its own servers, so it never breaks.
 
 ---
 
