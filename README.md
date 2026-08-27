@@ -65,12 +65,12 @@ I build real, deployed web applications rather than tutorial projects — every 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zafarikomail-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api?username=zafarikomail-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zafarikomail-cmd&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafarikomail-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
+
+> Stats cards are served by a shared free instance (`github-readme-stats.vercel.app`) and may occasionally fail to load under heavy traffic — if a card ever shows broken on your profile, it's a temporary upstream issue, not something wrong with this file. Reload later, or see [self-hosting your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for a permanently reliable version.
 
 ---
 
